@@ -1,5 +1,5 @@
 releves = [
-    {"ville": "Paris", "temperature": 21},
+    {"ville": "Paris", "temperature": 23},
     {"ville": "Lyon", "temperature": 26},
 ]
 
